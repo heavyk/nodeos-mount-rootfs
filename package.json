@@ -24,6 +24,6 @@
     "nodeos-mount-utils": "^0.0.15",
     "posix": "heavyk/node-posix",
     "rimraf": "^2.2.8",
-    "nodeos-mount": "^0.1.12"
+    "nodeos-mount": "heavyk/nodeos-mount"
   }
 }

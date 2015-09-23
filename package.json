@@ -22,7 +22,7 @@
   "homepage": "https://github.com/NodeOS/nodeos-mount-rootfs",
   "dependencies": {
     "nodeos-mount-utils": "^0.0.15",
-    "posix": "netlovers/node-posix",
+    "posix": "heavyk/node-posix",
     "rimraf": "^2.2.8",
     "nodeos-mount": "^0.1.12"
   }
